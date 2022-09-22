@@ -97,3 +97,7 @@ Di sebuah planet bernama Viltrumite, terdapat Kementerian Komunikasi dan Informa
     ![10](images/18.png)
 
     flag = JaRkOm2022{8uK4N_CtF_k0k_h3h3h3}
+    
+    **Kendala:**
+    1. Pada saat pengerjaan soal nomor 9 kami kurang memasukkan *-d*. Sehingga jawaban yang kami masukkan pada laporan masih belum tepat, jadi kami melakukan revisi.
+    2. Kurang rinci dalam menjelaskan langkah per-stepnya dalam laporan.
